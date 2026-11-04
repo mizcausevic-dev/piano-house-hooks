@@ -1,0 +1,26 @@
+{
+  "title": "Piano House Hooks",
+  "study": "pn01",
+  "bpm": 126,
+  "source_audio": "preview/piano-house-hooks-simple-synth-preview.mp3",
+  "source_audio_sha256": "8112bb285c802f8d312c9c138d8b55b8e89e17d4d9c78d71cdf56f2459519d56",
+  "source_midi": "midi/pn01-bright-floor/pn01-bright-floor-combined.mid",
+  "source_midi_sha256": "a6f101bc6c511729e3d4b9f613f1951918646e48138d4d0d84c190b8b3db007f",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "43b149aebeed86860dfae7474c70c2e66685e44a5facf10bdab01e28df4a0ae6",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "80fdb809433e95c1c8cc3932613d391fac2074bfba0e018df59c05db9a5e2b59",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "29ff2c47e406a62807473e34168364a8b9e26db580c5dd6854f79d9fa2ba3f80",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
