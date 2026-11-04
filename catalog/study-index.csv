@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+pn01,Bright Floor,pack-local equal-tempered pitch collection,C,126,4/4,480,32,61440,midi/pn01-bright-floor/pn01-bright-floor-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pn02,White Steps,pack-local equal-tempered pitch collection,D#,126,4/4,480,32,61440,midi/pn02-white-steps/pn02-white-steps-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pn03,Open Window,pack-local equal-tempered pitch collection,F#,126,4/4,480,32,61440,midi/pn03-open-window/pn03-open-window-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pn04,Lift Home,pack-local equal-tempered pitch collection,C#,126,4/4,480,32,61440,midi/pn04-lift-home/pn04-lift-home-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

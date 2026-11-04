@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/piano-house-hooks-simple-synth-preview.mp3",
+  "preview_sha256": "8112bb285c802f8d312c9c138d8b55b8e89e17d4d9c78d71cdf56f2459519d56",
+  "source_midi_path": "midi/pn01-bright-floor/pn01-bright-floor-combined.mid",
+  "source_midi_sha256": "a6f101bc6c511729e3d4b9f613f1951918646e48138d4d0d84c190b8b3db007f",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "pn01",
+    "start_seconds": 0,
+    "end_seconds": 60.952
+  },
+  "measurement": {
+    "sample_peak": 0.119903,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
