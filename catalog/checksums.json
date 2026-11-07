@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 787,
-      "sha256": "289b1fcb2e63801244c3c6b182b9aa3411dfc224a6dc94a709088ca3c718d2be"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3873,
-      "sha256": "08b345710ee660bd8d8fdab8b53cd60e79b30ce7d27359d22e79a73fa81e10c1"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -203,8 +193,8 @@
     },
     {
       "path": "downloads/piano-house-hooks-midi.zip",
-      "bytes": 30936,
-      "sha256": "46d9800a2ae14284e7938d50c6be42531dace819fbee956aaf2db8096c073b6d"
+      "bytes": 33052,
+      "sha256": "cdd216ed34001c2681eff0d3c1db33f151d2b057df8254ca7f57b9170d5055d8"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -225,11 +215,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 31520,
       "sha256": "e8404846ce5a8ee7eb829bd00d96c1897bece5bc81d758e3b6be8d8b90fbba34"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 880882,
-      "sha256": "29ff2c47e406a62807473e34168364a8b9e26db580c5dd6854f79d9fa2ba3f80"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -258,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9511,
-      "sha256": "5d76be75c58401b814b970b171748bfc96712cd19503451153fb7cdd39b41d52"
+      "bytes": 9701,
+      "sha256": "5838f6b79cf4e0002d9e0df1c5af5510fa76f07aaecff57490bd2d75f6cd2c3b"
     },
     {
       "path": "midi/pn01-bright-floor/chord_pulse.mid",
@@ -402,6 +387,16 @@
       "sha256": "85c4e25f1f9e01c199af0ebd11c5f82866149bfd6b4e0fa22aeee0877aa045c8"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 787,
+      "sha256": "289b1fcb2e63801244c3c6b182b9aa3411dfc224a6dc94a709088ca3c718d2be"
+    },
+    {
       "path": "preview/piano-house-hooks-simple-synth-preview.mp3",
       "bytes": 1476484,
       "sha256": "8112bb285c802f8d312c9c138d8b55b8e89e17d4d9c78d71cdf56f2459519d56"
@@ -410,6 +405,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1132,
       "sha256": "bfae9e03184147d01d84bb5449fbed7e1356cbe02365adaa642e5089b370a4e4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3988,
+      "sha256": "8271ca6224d6a441b114a935f0f39324c57cc8fc744eeeac61b727da69c3bfac"
     },
     {
       "path": "social/instagram/caption.txt",
